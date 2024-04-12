@@ -1,5 +1,5 @@
 # for using this need to install beautifulsoup4
-# so run it in terminal :: "pip install beautifulsoup4"
+# so to install run it in terminal :: "pip install beautifulsoup4"
 
 
 import urllib.request
